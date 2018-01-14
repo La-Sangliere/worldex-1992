@@ -1,0 +1,249 @@
+CIA WORLD FACTBOOK 1992 via the Libraries of the Univ. of Missouri-St. Louis
+ 
+ Match 102   DB Rec# - 72,815  Dataset-WOFACT
+ 
+Source        :CENTRAL INTELLIGENCE AGENCY 
+Source key    :CI 
+Program       :WORLD FACTBOOK 
+Program key   :CI WOFACT 
+Update sched. :Annually         
+ID number     :CI WOFACT 096              
+Title         :Vital Statistics - GUAM 
+Data type     :TEXT 
+End year      :1993
+Date of record:01/22/1993
+Country       : 
+| GUAM 
+Text          : 
+GUAM 
+(territory of the US) 
+ 
+GEOGRAPHY 
+Total area: 541.3 km2 
+ 
+Land area: 541.3 km2 
+ 
+Comparative area: slightly more than three times the size of Washington, 
+DC 
+ 
+Land boundaries: none 
+ 
+Coastline: 125.5 km 
+ 
+Maritime claims: 
+ 
+Contiguous zone: 12 nm 
+ 
+Continental shelf: 200 m (depth) 
+ 
+
+ 
+Exclusive economic zone: 200 nm 
+ 
+Territorial sea: 12 nm 
+ 
+Disputes: none 
+ 
+Climate: tropical marine; generally warm and humid, moderated by 
+northeast trade winds; dry season from January to June, rainy season from 
+July to December; little seasonal temperature variation 
+ 
+Terrain: volcanic origin, surrounded by coral reefs; relatively flat 
+coraline limestone plateau (source of most fresh water) with steep coastal 
+cliffs and narrow coastal plains in north, low-rising hills in center, 
+mountains in south 
+ 
+Natural resources: fishing (largely undeveloped), tourism (especially 
+from Japan) 
+ 
+Land use: arable land 11%; permanent crops 11%; meadows and pastures 
+15%; forest and woodland 18%; other 45% 
+ 
+Environment: frequent squalls during rainy season; subject to relatively 
+rare, but potentially very destructive typhoons (especially in August) 
+ 
+Note: largest and southernmost island in the Mariana Islands archipelago; 
+strategic location in western North Pacific Ocean 5,955 km west-southwest of 
+Honolulu about three-quarters of the way between Hawaii and the Philippines 
+ 
+PEOPLE 
+Population: 142,271 (July 1992), growth rate 2.6% (1992) 
+ 
+Birth rate: 27 births/1,000 population (1992) 
+ 
+Death rate: 4 deaths/1,000 population (1992) 
+ 
+Net migration rate: 3 migrants/1,000 population (1992) 
+ 
+Infant mortality rate: 15 deaths/1,000 live births (1992) 
+ 
+Life expectancy at birth: 72 years male, 76 years female (1992) 
+ 
+Total fertility rate: 2.5 children born/woman (1992) 
+ 
+Nationality: noun - Guamanian(s); adjective - Guamanian; note - 
+Guamanians are US citizens 
+ 
+Ethnic divisions: Chamorro 47%, Filipino 25%, Caucasian 10%, Chinese, 
+Japanese, Korean, and other 18% 
+ 
+Religions: Roman Catholic 98%, other 2% 
+ 
+Languages: English and Chamorro, most residents bilingual; Japanese also 
+widely spoken 
+ 
+Literacy: 96% (male 96%, female 96%) age 15 and over can read and write 
+(1980) 
+ 
+Labor force: 46,930; federal and territorial government 40%, private 60% 
+(trade 18%, services 15.6%, construction 13.8%, other 12.6%) (1990) 
+ 
+
+ 
+Organized labor: 13% of labor force 
+ 
+GOVERNMENT 
+Long-form name: Territory of Guam 
+ 
+Type: organized, unincorporated territory of the US; policy relations 
+between Guam and the US are under the jurisdiction of the Office of 
+Territorial and International Affairs, US Department of the Interior 
+ 
+Capital: Agana 
+ 
+Administrative divisions: none (territory of the US) 
+ 
+Independence: none (territory of the US) 
+ 
+Constitution: Organic Act of 1 August 1950 
+ 
+Legal system: NA 
+ 
+National holiday: Guam Discovery Day (first Monday in March), Liberation 
+Day (July 21), US Government holidays 
+ 
+Executive branch: President of the US, governor, lieutenant governor, 
+Cabinet 
+ 
+Legislative branch: unicameral Legislature 
+ 
+Judicial branch: Federal District Court of Guam, Territorial Superior 
+Court of Guam 
+ 
+Leaders: 
+ 
+Chief of State: President George BUSH (since 20 January 1989) 
+ 
+Head of Government: Governor Joseph A. ADA (since November 1986); 
+Lieutenant Governor Frank F.  BLAS 
+ 
+Political parties and leaders: Democratic Party (controls the 
+legislature); Republican Party (party of the Governor) 
+ 
+Suffrage: universal at age 18; US citizens, but do not vote in US 
+presidential elections 
+ 
+Governor: last held on 6 November 1990 (next to be held November 1994); 
+results - Joseph F. ADA reelected 
+ 
+Legislature: last held on 6 November 1990 (next to be held November 
+1992); a byelection was held in April 1991 to replace a deceased legislator, 
+results - percent of vote by party NA; seats - (21 total) Democratic 11, 
+Republican 10 
+ 
+US House of Representatives: last held 6 November 1990 (next to be held 
+3 November 1992); Guam elects one nonvoting delegate; results - Ben BLAZ was 
+elected as the nonacting delegate; seats - (1 total) Republican 1 
+ 
+Member of: ESCAP (associate), IOC, SPC 
+ 
+Diplomatic representation: none (territory of the US) 
+ 
+Flag: territorial flag is dark blue with a narrow red border on all four 
+
+ 
+sides; centered is a red-bordered, pointed, vertical ellipse containing a 
+beach scene, outrigger canoe with sail, and a palm tree with the word GUAM 
+superimposed in bold red letters; US flag is the national flag 
+ 
+ECONOMY 
+Overview: The economy is based on US military spending and on revenues 
+from tourism.  Over the past 20 years the tourist industry has grown rapidly, 
+creating a construction boom for new hotels and the expansion of older ones. 
+Visitors numbered about 900,000 in 1990. The small manufacturing sector 
+includes textiles and clothing, beverage, food, and watch production. About 
+60% of the labor force works for the private sector and the rest for 
+government.  Most food and industrial goods are imported, with about 75% from 
+the US. In 1991 the unemployment rate was about 4.1%. 
+ 
+GNP: purchasing power equivalent - $2.0 billion, per capita $14,000; 
+real growth rate NA% (1991 est.) 
+ 
+Inflation rate (consumer prices): 12.6% (1991) 
+ 
+Unemployment rate: 4.1% (1991 est.) 
+ 
+Budget: revenues $525 million; expenditures $395 million, including 
+capital expenditures of $NA. 
+ 
+Exports: $34 million (f.o.b., 1984) 
+ 
+commodities: mostly transshipments of refined petroleum products, 
+construction materials, fish, food and beverage products 
+ 
+partners: US 25%, Trust Territory of the Pacific Islands 63%, other 12% 
+ 
+Imports: $493 million (c.i.f., 1984) 
+ 
+commodities: petroleum and petroleum products, food, manufactured goods 
+ 
+partners: US 23%, Japan 19%, other 58% 
+ 
+External debt: $NA 
+ 
+Industrial production: growth rate NA% 
+ 
+Electricity: 500,000 kW capacity; 2,300 million kWh produced, 16,300 kWh 
+per capita (1990) 
+ 
+Industries: US military, tourism, construction, transshipment services, 
+concrete products, printing and publishing, food processing, textiles 
+ 
+Agriculture: relatively undeveloped with most food imported; fruits, 
+vegetables, eggs, pork, poultry, beef, copra 
+ 
+Economic aid: although Guam receives no foreign aid, it does receive 
+large transfer payments from the general revenues of the US Federal Treasury 
+into which Guamanians pay no income or excise taxes; under the provisions of 
+a special law of Congress, the Guamanian Treasury, rather than the US 
+Treasury, receives federal income taxes paid by military and civilian 
+Federal employees stationed in Guam 
+ 
+Currency: US currency is used 
+ 
+Exchange rates: US currency is used 
+
+ 
+ 
+Fiscal year: 1 October - 30 September 
+ 
+COMMUNICATIONS 
+Highways: 674 km all-weather roads 
+ 
+Ports: Apra Harbor 
+ 
+Airports: 5 total, 4 usable; 3 with permanent-surface runways; none with 
+runways over 3,659 m; 3 with runways 2,440-3,659 m; none with runways 
+1,220-2,439 m 
+ 
+Telecommunications: 26,317 telephones (1989); broadcast stations - 3 AM, 
+3 FM, 3 TV; 2 Pacific Ocean INTELSAT ground stations 
+ 
+DEFENSE FORCES 
+Note: defense is the responsibility of the US 
+ 
+ 
+--------------------------------------------------------------------------
+These files extracted from Dept. of Commerce's National Trade Databank (NTDB)
+CD-ROM, SuDoc no. C 1.88:993/11 using software developed by RCM of the Univ.
+of Missouri-St. Louis Libraries, 12/1/1993 :/ WF930101

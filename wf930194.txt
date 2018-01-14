@@ -1,0 +1,72 @@
+CIA WORLD FACTBOOK 1992 via the Libraries of the Univ. of Missouri-St. Louis
+ 
+ Match 195   DB Rec# - 72,908  Dataset-WOFACT
+ 
+Source        :CENTRAL INTELLIGENCE AGENCY 
+Source key    :CI 
+Program       :WORLD FACTBOOK 
+Program key   :CI WOFACT 
+Update sched. :Annually         
+ID number     :CI WOFACT 189              
+Title         :Vital Statistics - PARACEL ISLANDS 
+Data type     :TEXT 
+End year      :1993
+Date of record:01/22/1993
+Country       : 
+| PARACEL ISLANDS 
+Text          : 
+PARACEL ISLANDS 
+GEOGRAPHY 
+Total area: NA 
+
+ 
+ 
+Land area: undetermined 
+ 
+Comparative area: undetermined 
+ 
+Land boundaries: none 
+ 
+Coastline: 518 km 
+ 
+Maritime claims: undetermined 
+ 
+Disputes: occupied by China, but claimed by Taiwan and Vietnam 
+ 
+Climate: tropical 
+ 
+Terrain: undetermined 
+ 
+Natural resources: none 
+ 
+Land use: arable land 0%; permanent crops 0%; meadows and pastures 0%; 
+forest and woodland 0%; other 100% 
+ 
+Environment: subject to typhoons 
+ 
+Note: located 400 km east of Vietnam in the South China Sea about 
+one-third of the way between Vietnam and the Philippines 
+ 
+PEOPLE 
+Population: no permanent inhabitants 
+ 
+GOVERNMENT 
+Long-form name: none 
+ 
+ECONOMY 
+Overview: no economic activity 
+ 
+COMMUNICATIONS 
+Ports: small Chinese port facilities on Woody Island and Duncan Island 
+currently under expansion 
+ 
+Airports: 1 on Woody Island 
+ 
+DEFENSE FORCES 
+Note: occupied by China 
+ 
+ 
+--------------------------------------------------------------------------
+These files extracted from Dept. of Commerce's National Trade Databank (NTDB)
+CD-ROM, SuDoc no. C 1.88:993/11 using software developed by RCM of the Univ.
+of Missouri-St. Louis Libraries, 12/1/1993 :/ WF930194

@@ -1,0 +1,85 @@
+CIA WORLD FACTBOOK 1992 via the Libraries of the Univ. of Missouri-St. Louis
+ 
+ Match 227   DB Rec# - 72,940  Dataset-WOFACT
+ 
+Source        :CENTRAL INTELLIGENCE AGENCY 
+Source key    :CI 
+Program       :WORLD FACTBOOK 
+Program key   :CI WOFACT 
+Update sched. :Annually         
+ID number     :CI WOFACT 221              
+Title         :Vital Statistics - SPRATLY ISLANDS 
+Data type     :TEXT 
+End year      :1993
+Date of record:01/22/1993
+Country       : 
+| SPRATLY ISLANDS 
+Text          : 
+SPRATLY ISLANDS 
+GEOGRAPHY 
+Total area: NA but less than 5 km2 
+ 
+Land area: less than 5 km2; includes 100 or so islets, coral reefs, and 
+sea mounts scattered over the South China Sea 
+ 
+Comparative area: undetermined 
+ 
+Land boundaries: none 
+ 
+Coastline: 926 km 
+ 
+Maritime claims: undetermined 
+ 
+Disputes: all of the Spratly Islands are claimed by China, Taiwan, and 
+Vietnam; parts of them are claimed by Malaysia and the Philippines; in 1984, 
+Brunei established an exclusive economic zone, which encompasses Louisa 
+Reef, but has not publicly claimed the island 
+ 
+Climate: tropical 
+ 
+Terrain: flat 
+ 
+Natural resources: fish, guano; undetermined oil and natural gas 
+potential 
+ 
+Land use: arable land 0%; permanent crops 0%; meadows and pastures 0%; 
+forest and woodland 0%; other 100% 
+ 
+Environment: subject to typhoons; includes numerous small islands, 
+atolls, shoals, and coral reefs 
+ 
+Note: strategically located near several primary shipping lanes in the 
+central South China Sea; serious navigational hazard 
+ 
+PEOPLE 
+Population: no permanent inhabitants; garrisons 
+ 
+GOVERNMENT 
+Long-form name: none 
+ 
+
+ 
+ECONOMY 
+Overview: Economic activity is limited to commercial fishing, proximity 
+to nearby oil- and gas-producing sedimentary basins suggests the potential 
+for oil and gas deposits, but the Spratlys region is largely unexplored, and 
+there are no reliable estimates of potential reserves; commercial 
+exploitation has yet to be developed. 
+ 
+Industries: none 
+ 
+COMMUNICATIONS 
+Ports: no natural harbors 
+ 
+Airports: 2 total, 2 usable; none with runways over 2,439 m; 1 with 
+runways 1,220-2,439 m 
+ 
+DEFENSE FORCES 
+Note: 44 small islands or reefs are occupied by China, Malaysia, the 
+Philippines, Taiwan, and Vietnam 
+ 
+ 
+--------------------------------------------------------------------------
+These files extracted from Dept. of Commerce's National Trade Databank (NTDB)
+CD-ROM, SuDoc no. C 1.88:993/11 using software developed by RCM of the Univ.
+of Missouri-St. Louis Libraries, 12/1/1993 :/ WF930226

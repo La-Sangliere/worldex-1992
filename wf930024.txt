@@ -1,0 +1,235 @@
+CIA WORLD FACTBOOK 1992 via the Libraries of the Univ. of Missouri-St. Louis
+ 
+ Match 25   DB Rec# - 72,738  Dataset-WOFACT
+ 
+Source        :CENTRAL INTELLIGENCE AGENCY 
+Source key    :CI 
+Program       :WORLD FACTBOOK 
+Program key   :CI WOFACT 
+Update sched. :Annually         
+ID number     :CI WOFACT 019              
+Title         :Vital Statistics - THE BAHAMAS 
+Data type     :TEXT 
+End year      :1993
+Date of record:01/22/1993
+Country       : 
+| BAHAMAS 
+Text          : 
+THE BAHAMAS 
+GEOGRAPHY 
+Total area: 13,940 km2 
+ 
+Land area: 10,070 km2 
+ 
+Comparative area: slightly larger than Connecticut 
+ 
+
+ 
+Land boundaries: none 
+ 
+Coastline: 3,542 km 
+ 
+Maritime claims: 
+ 
+Continental shelf: 200 m (depth) or to depth of exploitation 
+ 
+Exclusive fishing zone: 200 nm 
+ 
+Territorial sea: 3 nm 
+ 
+Disputes: none 
+ 
+Climate: tropical marine; moderated by warm waters of Gulf Stream 
+ 
+Terrain: long, flat coral formations with some low rounded hills 
+ 
+Natural resources: salt, aragonite, timber 
+ 
+Land use: arable land 1%; permanent crops NEGL%; meadows and pastures 
+NEGL%; forest and woodland 32%; other 67% 
+ 
+Environment: subject to hurricanes and other tropical storms that cause 
+extensive flood damage 
+ 
+Note: strategic location adjacent to US and Cuba; extensive island chain 
+ 
+PEOPLE 
+Population: 255,811 (July 1992), growth rate 1.4% (1992) 
+ 
+Birth rate: 19 births/1,000 population (1992) 
+ 
+Death rate: 5 deaths/1,000 population (1992) 
+ 
+Net migration rate: 0 migrants/1,000 population (1992) 
+ 
+Infant mortality rate: 19 deaths/1,000 live births (1992) 
+ 
+Life expectancy at birth: 69 years male, 76 years female (1992) 
+ 
+Total fertility rate: 2.2 children born/woman (1992) 
+ 
+Nationality: noun--Bahamian(s); adjective--Bahamian 
+ 
+Ethnic divisions: black 85%, white 15% 
+ 
+Religions: Baptist 32%, Anglican 20%, Roman Catholic 19%, Methodist 6%, 
+Church of God 6%, other Protestant 12%, none or unknown 3%, other 2% (1980) 
+ 
+Languages: English; some Creole among Haitian immigrants 
+ 
+Literacy: 90% (male 90%, female 89%) age 15 and over but definition of 
+literacy not 
+ 
+Labor force: 127,400; government 30%, hotels and restaurants 25%, 
+business services 
+ 
+Organized labor: 25% of labor force 
+ 
+
+ 
+GOVERNMENT 
+Long-form name: The Commonwealth of The Bahamas 
+ 
+Type: commonwealth 
+ 
+Capital: Nassau 
+ 
+Administrative divisions: 21 districts; Abaco, Acklins Island, Andros 
+Island, Berry Islands, 
+ 
+Independence: 10 July 1973 (from UK) 
+ 
+Constitution: 10 July 1973 
+ 
+Legal system: based on English common law 
+ 
+National holiday: National Day, 10 July (1973) 
+ 
+Executive branch: British monarch, governor general, prime minister, 
+deputy prime 
+ 
+Legislative branch: bicameral Parliament consists of an upper house or 
+Senate and a lower 
+ 
+Judicial branch: Supreme Court 
+ 
+Leaders: 
+ 
+Chief of State: Queen ELIZABETH II (since 6 February 1952), represented 
+by 
+ 
+Head of Government: Prime Minister Sir Lynden Oscar PINDLING (since 16 
+January 1967) 
+ 
+Political parties and leaders: Progressive Liberal Party (PLP), Sir 
+Lynden O. PINDLING; Free National 
+ 
+Suffrage: universal at age 18 
+ 
+House of Assembly: last held 19 June 1987 (next to be held by NA June 
+1992); 
+ 
+Other political or pressure groups: Vanguard Nationalist and Socialist 
+Party (VNSP), a small leftist party headed 
+ 
+Member of: ACP, C, CCC, CARICOM, CDB, ECLAC, FAO, G-77, IADB, IBRD, ICAO, 
+ 
+Diplomatic representation: Ambassador Margaret E. McDONALD; Chancery at 
+2220 Massachusetts 
+ 
+US: Ambassador Chic HECHT; Embassy at Mosmar Building, Queen Street, 
+Nassau (mailing address is P. O. Box N-8197, Nassau); telephone (809) 
+322-1181 or 328-2206; FAX (809) 328-7838 
+ 
+Flag: three equal horizontal bands of aquamarine (top), gold, and 
+aquamarine with a black equilateral triangle based on the hoist side 
+ 
+ECONOMY 
+Overview: The Bahamas is a stable, middle-income developing nation whose 
+economy is based primarily on tourism and offshore banking. Tourism alone 
+
+ 
+provides about 50% of GDP and directly or indirectly employs about 50,000 
+people or 40% of the local work force. The economy has slackened in recent 
+years, as the annual increase in the number of tourists slowed. Nonetheless, 
+the per capita GDP of $9,900 is one of the highest in the region. 
+ 
+GDP: purchasing power equivalent--$2.5 billion, per capita $9,900; real 
+growth rate 1.0% (1990 est.) 
+ 
+Inflation rate (consumer prices): 7.3% (1991 est.) 
+ 
+Unemployment rate: 16.0% (1991) 
+ 
+Budget: revenues $627.5 million; expenditures $727.5 million, including 
+capital expenditures of $100 million (1992, projected) 
+ 
+Exports: $306 million (f.o.b., 1991 est.); 
+ 
+commodities: pharmaceuticals, cement, rum, crawfish; 
+ 
+partners: US 41%, Norway 30%, Denmark 4% 
+ 
+Imports: $1.14 billion (c.i.f., 1991 est.); 
+ 
+commodities: foodstuffs, manufactured goods, mineral fuels; 
+ 
+partners: US 35%, Nigeria 21%, Japan 13%, Angola 11% 
+ 
+External debt: $1.2 billion (December 1990) 
+ 
+Industrial production: growth rate 3% (1990); accounts for 15% of GDP 
+ 
+Electricity: 368,000 kw capacity; 857 million kWh produced 3,339 kWh per 
+capita 
+ 
+Industries: tourism, banking, cement, oil refining and transshipment, 
+salt production, rum, aragonite, pharmaceuticals, spiral welded steel pipe 
+ 
+Agriculture: accounts for less than 5% of GDP; dominated by small-scale 
+producers; 
+ 
+Illicit drugs: transshipment point for cocaine 
+ 
+Economic aid: US commitments, including Ex-Im (FY85-89), $1.0 million; 
+Western 
+ 
+Currency: Bahamian dollar (plural--dollars); 1 Bahamian dollar (B$) = 
+100 cents 
+ 
+Exchange rates: Bahamian dollar (B$) per US$1--1.00 (fixed rate) 
+ 
+Fiscal year: calendar year 
+ 
+COMMUNICATIONS 
+Highways: 2,400 km total; 1,350 km paved, 1,050 km gravel 
+ 
+Ports: Freeport, Nassau 
+ 
+Merchant marine: 778 ships (1,000 GRT or over) totaling 18,129,173 
+GRT/30,002,421 DWT; 
+ 
+
+ 
+Civil air: 11 major transport aircraft 
+ 
+Airports: 59 total, 54 usable; 30 with permanent-surface runways; none 
+with 
+ 
+Telecommunications: highly developed; 99,000 telephones in totally 
+automatic system; 
+ 
+DEFENSE FORCES 
+Branches: Royal Bahamas Defense Force (Coast Guard only), Royal Bahamas 
+Police 
+ 
+Manpower availability: males 15-49, 68,020; NA fit for military service 
+ 
+Defense expenditures: exchange rate conversion--$65 million, 2.7% of GDP 
+(1990) 
+ 
+ 
+--------------------------------------------------------------------------
+These files extracted from Dept. of Commerce's National Trade Databank (NTDB)
+CD-ROM, SuDoc no. C 1.88:993/11 using software developed by RCM of the Univ.
+of Missouri-St. Louis Libraries, 12/1/1993 :/ WF930024

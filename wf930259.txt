@@ -1,0 +1,108 @@
+CIA WORLD FACTBOOK 1992 via the Libraries of the Univ. of Missouri-St. Louis
+ 
+ Match 260   DB Rec# - 72,973  Dataset-WOFACT
+ 
+Source        :CENTRAL INTELLIGENCE AGENCY 
+Source key    :CI 
+Program       :WORLD FACTBOOK 
+Program key   :CI WOFACT 
+Update sched. :Annually         
+ID number     :CI WOFACT 254              
+Title         :Vital Statistics - WAKE ISLAND 
+Data type     :TEXT 
+End year      :1993
+Date of record:01/22/1993
+Country       : 
+| WAKE ISLAND 
+Text          : 
+WAKE ISLAND 
+GEOGRAPHY 
+Total area: 6.5 km2 
+
+ 
+ 
+Land area: 6.5 km2 
+ 
+Comparative area: about 11 times the size of The Mall in Washington, DC 
+ 
+Land boundaries: none 
+ 
+Coastline: 19.3 km 
+ 
+Maritime claims: 
+ 
+Contiguous zone: 12 nm 
+ 
+Continental shelf: 200 m (depth) 
+ 
+Exclusive economic zone: 200 nm 
+ 
+Territorial sea: 12 nm 
+ 
+Disputes: claimed by the Republic of the Marshall Islands 
+ 
+Climate: tropical 
+ 
+Terrain: atoll of three coral islands built up on an underwater volcano; 
+central lagoon is former crater, islands are part of the rim; average 
+elevation less than four meters 
+ 
+Natural resources: none 
+ 
+Land use: arable land 0%; permanent crops 0%; meadows and pastures 0%; 
+forest and woodland 0%; other 100% 
+ 
+Environment: subject to occasional typhoons 
+ 
+Note: strategic location 3,700 km west of Honolulu in the North Pacific 
+Ocean, about two-thirds of the way between Hawaii and the Northern Mariana 
+Islands; emergency landing location for transpacific flights 
+ 
+PEOPLE 
+Population: no indigenous inhabitants; 381 temporary population (US Air 
+Force personnel, civilian weather service personnel, and US and Thai 
+contractors) (January 1992); note - population peaked about 1970 with over 
+1,600 persons during the Vietnam conflict 
+ 
+GOVERNMENT 
+Long-form name: none 
+ 
+Type: unincorporated territory of the US administered by the US Air 
+Force (under an agreement with the US Department of Interior) since 24 June 
+1972 
+ 
+Capital: none; administered from Washington, DC 
+ 
+Flag: the US flag is used 
+ 
+ECONOMY 
+Overview: Economic activity is limited to providing services to US 
+military personnel and contractors located on the island. All food and 
+manufactured goods must be imported. 
+ 
+
+ 
+Electricity: supplied by US military 
+ 
+COMMUNICATIONS 
+Ports: none; because of the reefs, there are only two offshore 
+anchorages for large ships 
+ 
+Airports: 1 with permanent-surface runways 2,440-3,659 m 
+ 
+Telecommunications: underwater cables to Guam and through Midway to 
+Honolulu; 1 Autovon circuit off the Overseas Telephone System (OTS); Armed 
+Forces Radio/Television Service (AFRTS) radio and television service 
+provided by satellite; broadcast stations - 1 AM, no FM, no TV 
+ 
+Note: formerly an important commercial aviation base, now used only by US 
+military and some commercial cargo planes 
+ 
+DEFENSE FORCES 
+Note: defense is the responsibility of the US 
+ 
+ 
+--------------------------------------------------------------------------
+These files extracted from Dept. of Commerce's National Trade Databank (NTDB)
+CD-ROM, SuDoc no. C 1.88:993/11 using software developed by RCM of the Univ.
+of Missouri-St. Louis Libraries, 12/1/1993 :/ WF930259

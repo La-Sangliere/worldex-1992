@@ -1,0 +1,220 @@
+CIA WORLD FACTBOOK 1992 via the Libraries of the Univ. of Missouri-St. Louis
+ 
+ Match 213   DB Rec# - 72,926  Dataset-WOFACT
+ 
+Source        :CENTRAL INTELLIGENCE AGENCY 
+Source key    :CI 
+Program       :WORLD FACTBOOK 
+Program key   :CI WOFACT 
+Update sched. :Annually         
+ID number     :CI WOFACT 207              
+Title         :Vital Statistics - SAN MARINO 
+Data type     :TEXT 
+End year      :1993
+Date of record:01/22/1993
+Country       : 
+| SAN MARINO 
+Text          : 
+SAN MARINO 
+GEOGRAPHY 
+Total area: 60 km2 
+ 
+Land area: 60 km2 
+ 
+Comparative area: about 0.3 times the size of Washington, DC 
+ 
+Land boundaries: 39 km; Italy 39 km 
+ 
+Coastline: none - landlocked 
+ 
+Maritime claims: none - landlocked 
+ 
+Disputes: none 
+ 
+Climate: Mediterranean; mild to cool winters; warm, sunny summers 
+ 
+Terrain: rugged mountains 
+ 
+Natural resources: building stones 
+ 
+
+ 
+Land use: arable land 17%; permanent crops 0%; meadows and pastures 0%; 
+forest and woodland 0%; other 83% 
+ 
+Environment: dominated by the Appenines 
+ 
+Note: landlocked; world's smallest republic; enclave of Italy 
+ 
+PEOPLE 
+Population: 23,404 (July 1992), growth rate 0.6% (1992) 
+ 
+Birth rate: 8 births/1,000 population (1992) 
+ 
+Death rate: 7 deaths/1,000 population (1992) 
+ 
+Net migration rate: 5 migrants/1,000 population (1992) 
+ 
+Infant mortality rate: 8 deaths/1,000 live births (1992) 
+ 
+Life expectancy at birth: 74 years male, 79 years female (1992) 
+ 
+Total fertility rate: 1.3 children born/woman (1992) 
+ 
+Nationality: noun - Sanmarinese (singular and plural); adjective - 
+Sanmarinese 
+ 
+Ethnic divisions: Sanmarinese, Italian 
+ 
+Religions: Roman Catholic 
+ 
+Languages: Italian 
+ 
+Literacy: 96% (male 96%, female 95%) age 14 and over can read and write 
+(1976) 
+ 
+Labor force: about 4,300 
+ 
+Organized labor: Democratic Federation of Sanmarinese Workers 
+(affiliated with ICFTU) has about 1,800 members; Communist-dominated General 
+Federation of Labor, 1,400 members 
+ 
+GOVERNMENT 
+Long-form name: Republic of San Marino 
+ 
+Type: republic 
+ 
+Capital: San Marino 
+ 
+Administrative divisions: 9 municipalities (castelli, singular - 
+castello); Acquaviva, Borgo Maggiore, Chiesanuova, Domagnano, Faetano, 
+Fiorentino, Monte Giardino, San Marino, Serravalle 
+ 
+Independence: 301 AD (by tradition) 
+ 
+Constitution: 8 October 1600; electoral law of 1926 serves some of the 
+functions of a constitution 
+ 
+Legal system: based on civil law system with Italian law influences; has 
+not accepted compulsory ICJ jurisdiction 
+ 
+National holiday: Anniversary of the Foundation of the Republic, 3 
+
+ 
+September 
+ 
+Executive branch: two captains regent, Congress of State (cabinet); real 
+executive power is wielded by the secretary of state for foreign affairs and 
+the secretary of state for internal affairs 
+ 
+Legislative branch: unicameral Great and General Council (Consiglio 
+Grande e Generale) 
+ 
+Judicial branch: Council of Twelve (Consiglio dei XII) 
+ 
+Leaders: 
+ 
+Co-Chiefs of State: Captain Regent Edda CETCOLI and Captain Regent 
+Marino RICCARDI (since 1 October 1991) 
+ 
+Head of Government: Secretary of State Gabriele GATTI (since July 1986) 
+ 
+Political parties and leaders: Christian Democratic Party (DCS), 
+Piermarino MENICUCCI; San Marino Democratic Progressive Party (PPDS) 
+formerly San Marino Communist Party (PCS), Gilberto GHIOTTI; San Marino 
+Socialist Party (PSS), Remy GIACOMINI; Unitary Socialst Party (PSU); 
+Democratic Movement (MD), Emilio Della BALDA; San Marino Social Democratic 
+Party (PSDS), Augusto CASALI; San Marino Republican Party (PRS), Cristoforo 
+BUSCARINI 
+ 
+Suffrage: universal at age 18 
+ 
+Great and General Council: last held 29 May 1988 (next to be held by NA 
+May 1993); results - percent of vote by party NA; seats - (60 total) DCS 27, 
+PCS 18, PSU 8, PSS 7 
+ 
+Communists: about 300 members 
+ 
+Member of: CE, CSCE, ICAO, ICFTU, ILO, IMF (observer), IOC, IOM 
+(observer), ITU, LORCS, NAM (guest), UN, UNCTAD, UNESCO, UPU, WHO, WTO 
+ 
+Diplomatic representation: San Marino maintains honorary Consulates 
+General in Washington and New York and an honorary Consulate in Detroit 
+ 
+US: no mission in San Marino, but the Consul General in Florence (Italy) 
+is accredited to San Marino; Consulate General at Lungarno Amerigo Vespucci, 
+38, 50123 Firenze, Italy (mailing address is APO AE 09613; telephone  39 
+(55) 239-8276 through 8279 and 217-605; FAX  39  (55) 284-088 
+ 
+Flag: two equal horizontal bands of white (top) and light blue with the 
+national coat of arms superimposed in the center; the coat of arms has a 
+shield (featuring three towers on three peaks) flanked by a wreath, below a 
+crown and above a scroll bearing the word 
+ 
+ECONOMY 
+Overview: More than 2 million tourists visit each year, contributing 
+about 60% to GDP. The sale of postage stamps to foreign collectors is 
+another important income producer. The manufacturing sector employs nearly 
+40% of the labor force and agriculture less than 4%. The per capita level of 
+output and standard of living are comparable to northern Italy. 
+ 
+GDP: purchasing power equivalent - $400 million, per capita $17,000; 
+real growth rate NA% (1991 est.) 
+ 
+
+ 
+Inflation rate (consumer prices): 6% (1990) 
+ 
+Unemployment rate: 6.5% (1985) 
+ 
+Budget: revenues $99.2 million; expenditures $NA, including capital 
+expenditures of $NA (1983) 
+ 
+Exports 
+ 
+Imports: see 
+ 
+External debt: $NA 
+ 
+Industrial production: growth rate NA% 
+ 
+Electricity: supplied by Italy 
+ 
+Industries: wine, olive oil, cement, leather, textile, tourism 
+ 
+Agriculture: employs less than 4% of labor force; products - wheat, 
+grapes, corn, olives, meat, cheese, hides; small numbers of cattle, pigs, 
+horses; depends on Italy for food imports 
+ 
+Economic aid: NA 
+ 
+Currency: Italian lira (plural - lire); 1 Italian lira (Lit) = 100 
+centesimi; also mints its own coins 
+ 
+Exchange rates: Italian lire (Lit) per US$1 - 1,248.4 (March 1992), 
+1,240.6 (1991), 1,198.1 (1990), 1,372.1 (1989), 1,301.6 (1988), 1,296.1 
+(1987) 
+ 
+Fiscal year: calendar year 
+ 
+COMMUNICATIONS 
+Highways: 104 km 
+ 
+Telecommunications: automatic telephone system completely integrated 
+into Italian system; 11,700 telephones; broadcast services from Italy; 
+microwave and cable links into Italian networks; no communication satellite 
+facilities 
+ 
+DEFENSE FORCES 
+Branches: public security or police force of less than 50 people 
+ 
+Manpower availability: all fit men ages 16-60 constitute a militia that 
+can serve as an army 
+ 
+Defense expenditures: exchange rate conversion - $NA, NA% of GDP 
+ 
+ 
+--------------------------------------------------------------------------
+These files extracted from Dept. of Commerce's National Trade Databank (NTDB)
+CD-ROM, SuDoc no. C 1.88:993/11 using software developed by RCM of the Univ.
+of Missouri-St. Louis Libraries, 12/1/1993 :/ WF930212

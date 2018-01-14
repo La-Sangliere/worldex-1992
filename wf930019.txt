@@ -1,0 +1,95 @@
+CIA WORLD FACTBOOK 1992 via the Libraries of the Univ. of Missouri-St. Louis
+ 
+ Match 20   DB Rec# - 72,733  Dataset-WOFACT
+ 
+Source        :CENTRAL INTELLIGENCE AGENCY 
+Source key    :CI 
+Program       :WORLD FACTBOOK 
+
+ 
+Program key   :CI WOFACT 
+Update sched. :Annually         
+ID number     :CI WOFACT 014              
+Title         :Vital Statistics - ASHMORE AND CARTIER ISLANDS 
+Data type     :TEXT 
+End year      :1993
+Date of record:01/22/1993
+Country       : 
+| ASHMORE AND CARTIER ISLANDS 
+Text          : 
+ASHMORE AND CARTIER ISLANDS 
+(territory of Australia) 
+ 
+GEOGRAPHY 
+Total area: 5 km2 
+ 
+Land area: 5 km2; includes Ashmore Reef (West, Middle, and East Islets) 
+and Cartier Island 
+ 
+Comparative area: about 8.5 times the size of The Mall in Washington, DC 
+ 
+Land boundaries: none 
+ 
+Coastline: 74.1 km 
+ 
+Maritime claims: 
+ 
+Contiguous zone: 12 nm 
+ 
+Continental shelf: 200 m (depth) or to depth of exploration 
+ 
+Exclusive fishing zone: 200 nm 
+ 
+Territorial sea: 3 nm 
+ 
+Disputes: none 
+ 
+Climate: tropical 
+ 
+Terrain: low with sand and coral 
+ 
+Natural resources: fish 
+ 
+Land use: arable land 0%; permanent crops 0%; meadows and pastures 0%; 
+forest and woodland 0%; other - grass and sand 100% 
+ 
+Environment: surrounded by shoals and reefs; Ashmore Reef National 
+Nature Reserve established in August 1983 
+ 
+Note: located in extreme eastern Indian Ocean between Australia and 
+Indonesia, 320 km off the northwest coast of Australia 
+ 
+PEOPLE 
+Population: no permanent inhabitants; seasonal caretakers 
+ 
+GOVERNMENT 
+Long-form name: Territory of Ashmore and Cartier Islands 
+ 
+Type: territory of Australia administered by the Australian Minister for 
+Arts, Sports, the Environment, Tourism, and Territories - Roslyn KELLY 
+
+ 
+ 
+Capital: none; administered from Canberra, Australia 
+ 
+Administrative divisions: none (territory of Australia) 
+ 
+Legal system: relevant laws of the Northern Territory of Australia 
+ 
+Diplomatic representation: none (territory of Australia) 
+ 
+ECONOMY 
+Overview: no economic activity 
+ 
+COMMUNICATIONS 
+Ports: none; offshore anchorage only 
+ 
+DEFENSE FORCES 
+Note: defense is the responsibility of Australia; periodic visits by the 
+Royal Australian Navy and Royal Australian Air Force 
+ 
+ 
+--------------------------------------------------------------------------
+These files extracted from Dept. of Commerce's National Trade Databank (NTDB)
+CD-ROM, SuDoc no. C 1.88:993/11 using software developed by RCM of the Univ.
+of Missouri-St. Louis Libraries, 12/1/1993 :/ WF930019

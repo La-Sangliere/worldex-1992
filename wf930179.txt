@@ -1,0 +1,295 @@
+CIA WORLD FACTBOOK 1992 via the Libraries of the Univ. of Missouri-St. Louis
+ 
+ Match 180   DB Rec# - 72,893  Dataset-WOFACT
+ 
+Source        :CENTRAL INTELLIGENCE AGENCY 
+Source key    :CI 
+Program       :WORLD FACTBOOK 
+Program key   :CI WOFACT 
+Update sched. :Annually         
+ID number     :CI WOFACT 174              
+Title         :Vital Statistics - NEW ZEALAND 
+Data type     :TEXT 
+End year      :1993
+Date of record:01/22/1993
+Country       : 
+| NEW ZEALAND 
+Text          : 
+NEW ZEALAND 
+GEOGRAPHY 
+Total area: 268,680 km2 
+ 
+Land area: 268,670 km2; includes Antipodes Islands, Auckland Islands, 
+Bounty Islands, Campbell Island, Chatham Islands, and Kermadec Islands 
+ 
+Comparative area: about the size of Colorado 
+ 
+Land boundaries: none 
+ 
+Coastline: 15,134 km 
+ 
+Maritime claims: 
+ 
+
+ 
+Continental shelf: edge of continental margin or 200 nm 
+ 
+Exclusive economic zone: 200 nm 
+ 
+Territorial sea: 12 nm 
+ 
+Disputes: territorial claim in Antarctica (Ross Dependency) 
+ 
+Climate: temperate with sharp regional contrasts 
+ 
+Terrain: predominately mountainous with some large coastal plains 
+ 
+Natural resources: natural gas, iron ore, sand, coal, timber, 
+hydropower, gold, limestone 
+ 
+Land use: arable land 2%; permanent crops 0%; meadows and pastures 53%; 
+forest and woodland 38%; other 7%; includes irrigated 1% 
+ 
+Environment: earthquakes are common, though usually not severe 
+ 
+PEOPLE 
+Population: 3,347,369 (July 1992), growth rate 0.7% (1992) 
+ 
+Birth rate: 16 births/1,000 population (1992) 
+ 
+Death rate: 8 deaths/1,000 population (1992) 
+ 
+Net migration rate: - 2 migrants/1,000 population (1992) 
+ 
+Infant mortality rate: 9 deaths/1,000 live births (1992) 
+ 
+Life expectancy at birth: 72 years male, 80 years female (1992) 
+ 
+Total fertility rate: 2.1 children born/woman (1992) 
+ 
+Nationality: noun - New Zealander(s); adjective - New Zealand 
+ 
+Ethnic divisions: European 88%, Maori 8.9%, Pacific Islander 2.9%, other 
+0.2% 
+ 
+Religions: Anglican 24%, Presbyterian 18%, Roman Catholic 15%, Methodist 
+5%, Baptist 2%, other Protestant 3%, unspecified or none 9% (1986) 
+ 
+Languages: English (official), Maori 
+ 
+Literacy: 99% (male NA%, female NA%) age 15 and over can read and write 
+(1970) 
+ 
+Labor force: 1,603,500 (June 1991); services 67.4%, manufacturing 19.8%, 
+primary production 9.3% (1987) 
+ 
+Organized labor: 681,000 members; 43% of labor force (1986) 
+ 
+GOVERNMENT 
+Long-form name: none; abbreviated NZ 
+ 
+Type: parliamentary democracy 
+ 
+Capital: Wellington 
+ 
+
+ 
+Administrative divisions: 93 counties, 9 districts*, and 3 town 
+districts**; Akaroa, Amuri, Ashburton, Bay of Islands, Bruce, Buller, 
+Chatham Islands, Cheviot, Clifton, Clutha, Cook, Dannevirke, Egmont, 
+Eketahuna, Ellesmere, Eltham, Eyre, Featherston, Franklin, Golden Bay, Great 
+Barrier Island, Grey, Hauraki Plains, Hawera*, Hawke's Bay, Heathcote, 
+Hikurangi**, Hobson, Hokianga, Horowhenua, Hurunui, Hutt, Inangahua, 
+Inglewood, Kaikoura, Kairanga, Kiwitea, Lake, Mackenzie, Malvern, Manaia**, 
+Manawatu, Mangonui, Maniototo, Marlborough, Masterton, Matamata, Mount 
+Herbert, Ohinemuri, Opotiki, Oroua, Otamatea, Otorohanga*, Oxford, Pahiatua, 
+Paparua, Patea, Piako, Pohangina, Raglan, Rangiora*, Rangitikei, Rodney, 
+Rotorua*, Runanga, Saint Kilda, Silverpeaks, Southland, Stewart Island, 
+Stratford, Strathallan, Taranaki, Taumarunui, Taupo, Tauranga, 
+Thames-Coromandel*, Tuapeka, Vincent, Waiapu, Waiheke, Waihemo, Waikato, 
+Waikohu, Waimairi, Waimarino, Waimate, Waimate West, Waimea, Waipa, 
+Waipawa*, Waipukurau*, Wairarapa South, Wairewa, Wairoa, Waitaki, Waitomo*, 
+Waitotara, Wallace, Wanganui, Waverley**, Westland, Whakatane*, Whangarei, 
+Whangaroa, Woodville 
+ 
+Independence: 26 September 1907 (from UK) 
+ 
+Constitution: no formal, written constitution; consists of various 
+documents, including certain acts of the UK and New Zealand Parliaments; 
+Constitution Act 1986 was to have come into force 1 January 1987, but has 
+not been enacted 
+ 
+Dependent areas: Cook Islands, Niue, Tokelau 
+ 
+Legal system: based on English law, with special land legislation and 
+land courts for Maoris; accepts compulsory ICJ jurisdiction, with 
+reservations 
+ 
+National holiday: Waitangi Day (Treaty of Waitangi established British 
+sovereignty), 6 February (1840) 
+ 
+Executive branch: British monarch, governor general, prime minister, 
+deputy prime minister, Cabinet 
+ 
+Legislative branch: unicameral House of Representatives (commonly called 
+Parliament) 
+ 
+Judicial branch: High Court, Court of Appeal 
+ 
+Leaders: 
+ 
+Chief of State: Queen ELIZABETH II (since 6 February 1952), represented 
+by Governor General Dame Catherine TIZARD (since 12 December 1990) 
+ 
+Head of Government: Prime Minister James BOLGER (since 29 October 1990); 
+Deputy Prime Minister Donald McKINNON (since 2 November 1990) 
+ 
+Political parties and leaders: National Party (NP; government), James 
+BOLGER; New Zealand Labor Party (NZLP; opposition), Michael MOORE; NewLabor 
+Party (NLP), Jim ANDERTON; Democratic Party, Dick RYAN; New Zealand Liberal 
+Party, Hanmish MACINTYRE and Gilbert MYLES; Green Party, no official leader; 
+Mana Motuhake, Martin RATA; Socialist Unity Party (SUP; pro-Soviet), Kenneth 
+DOUGLAS; note - the New Labor, Democratic, and Mana Motuhake parties formed 
+a coalition in September 1991; the Green Party joined the coalition in May 
+1992 
+ 
+Suffrage: universal at age 18 
+
+ 
+ 
+House of Representatives: last held on 27 October 1990 (next to be held 
+October 1993); results - NP 49%, NZLP 35%, Green Party 7%, NLP 5%; seats - 
+(97 total) NP 67, NZLP 29, NLP 1 
+ 
+Member of: ANZUS (US suspended security obligations to NZ on 11 August 
+1986), APEC, AsDB, Australia Group, C, CCC, CP, COCOM, (cooperating 
+country), EBRD, ESCAP, FAO, GATT, IAEA, IBRD, ICAO, ICFTU, IDA, IEA, IFAD, 
+IFC, ILO, IMF, IMO, INMARSAT, INTELSAT, INTERPOL, IOC, IOM (observer), ISO, 
+ITU, LORCS, MTCR, OECD, PCA, SPC, SPF, UN, UNCTAD, UNESCO, UNIDO, UNIIMOG, 
+UNTSO, UPU, WHO, WIPO, WMO 
+ 
+Diplomatic representation: Ambassador - Denis Bazely Gordon McLEAN; 
+Chancery at 37 Observatory Circle NW, Washington, DC 20008; telephone (202) 
+328-4800; there are New Zealand Consulates General in Los Angeles and New 
+York 
+ 
+US: Ambassador Della M. NEWMAN; Embassy at 29 Fitzherbert Terrace, 
+Thorndon, Wellington (mailing address is P. O. Box 1190, Wellington; PSC 
+467, Box 1, FPO AP 96531-1001); telephone  64  (4) 722-068; FAX  64  (4) 
+723-537; there is a US Consulate General in Auckland 
+ 
+Flag: blue with the flag of the UK in the upper hoist-side quadrant with 
+four red five-pointed stars edged in white centered in the outer half of the 
+flag; the stars represent the Southern Cross constellation 
+ 
+ECONOMY 
+Overview: Since 1984 the government has been reorienting an agrarian 
+economy dependent on a guaranteed British market to an open free market 
+economy that can compete on the global scene. The government has hoped that 
+dynamic growth would boost real incomes, reduce inflationary pressures, and 
+permit the expansion of welfare benefits. The results have been mixed: 
+inflation is down from double-digit levels, but growth has been sluggish and 
+unemployment, always a highly sensitive issue, has exceeded 10% since May 
+1991. In 1988, GDP fell by 1%, in 1989 grew by a moderate 2.4%, and was flat 
+in 1990-91. 
+ 
+GDP: purchasing powerequivalent - $46.2 billion, per capita $14,000; 
+real growth rate - 0.4% (1991 est.) 
+ 
+Inflation rate (consumer prices): 1.0% (1991) 
+ 
+Unemployment rate: 10.7% (September 1991) 
+ 
+Budget: revenues $17.6 billion; expenditures $18.3 billion, including 
+capital expenditures of $NA (FY91 est.) 
+ 
+Exports: $9.4 billion (f.o.b., FY91) 
+ 
+commodities: wool, lamb, mutton, beef, fruit, fish, cheese, 
+manufactures, chemicals, forestry products 
+ 
+partners: EC 18.3%, Japan 17.9%, Australia 17.5%, US 13.5%, China 3.6%, 
+South Korea 3.1% 
+ 
+Imports: $8.4 billion (f.o.b., FY91) 
+ 
+commodities: petroleum, consumer goods, motor vehicles, industrial 
+equipment 
+ 
+
+ 
+partners: Australia 19.7%, Japan 16.9%, EC 16.9%, US 15.3%, Taiwan 3.0% 
+ 
+External debt: $17.4 billion (1989) 
+ 
+Industrial production: growth rate 1.9% (1990); accounts for about 20% 
+of GDP 
+ 
+Electricity: 7,800,000 kW capacity; 28,000 million kWh produced, 8,500 
+kWh per capita (1990) 
+ 
+Industries: food processing, wood and paper products, textiles, 
+machinery, transportation equipment, banking and insurance, tourism, mining 
+ 
+Agriculture: accounts for about 9% of GDP and 10% of the work force; 
+livestock predominates - wool, meat, dairy products all export earners; 
+crops - wheat, barley, potatoes, pulses, fruits, and vegetables; surplus 
+producer of farm products; fish catch reached a record 503,000 metric tons 
+in 1988 
+ 
+Economic aid: donor - ODA and OOF commitments (1970-89), $526 million 
+ 
+Currency: New Zealand dollar (plural - dollars); 1 New Zealand dollar 
+(NZ$) = 100 cents 
+ 
+Exchange rates: New Zealand dollars (NZ$) per US$1 - 1.8245 (March 
+1992), 1.7265 (1991), 1.6750 (1990), 1.6711 (1989), 1.5244 (1988), 1.6886 
+(1987) 
+ 
+Fiscal year: 1 July - 30 June 
+ 
+COMMUNICATIONS 
+Railroads: 4,716 km total; all 1.067-meter gauge; 274 km double track; 
+113 km electrified; over 99% government owned 
+ 
+Highways: 92,648 km total; 49,547 km paved, 43,101 km gravel or crushed 
+stone 
+ 
+Inland waterways: 1,609 km; of little importance to transportation 
+ 
+Pipelines: natural gas 1,000 km; petroleum products 160 km; condensate 
+150 km 
+ 
+Ports: Auckland, Christchurch, Dunedin, Wellington, Tauranga 
+ 
+Merchant marine: 18 ships (1,000 GRT or over) totaling 182,206 
+GRT/246,446 DWT; includes 2 cargo, 5 roll-on/roll-off, 1 railcar carrier, 4 
+oil tanker, 1 liquefied gas, 5 bulk 
+ 
+Civil air: about 40 major transport aircraft 
+ 
+Airports: 118 total, 118 usable; 34 with permanent-surface runways; none 
+with runways over 3,659 m; 2 with runways 2,440-3,659 m; 43 with runways 
+1,220-2,439 m 
+ 
+Telecommunications: excellent international and domestic systems; 
+2,110,000 telephones; broadcast stations - 64 AM, 2 FM, 14 TV; submarine 
+cables extend to Australia and Fiji; 2 Pacific Ocean INTELSAT earth stations 
+ 
+DEFENSE FORCES 
+Branches: New Zealand Army, Royal New Zealand Navy, Royal New Zealand 
+
+ 
+Air Force 
+ 
+Manpower availability: males 15-49, 874,703; 739,923 fit for military 
+service; 30,297 reach military age (20) annually 
+ 
+Defense expenditures: exchange rate conversion - $792 million, 2% of GDP 
+(FY92) 
+ 
+ 
+--------------------------------------------------------------------------
+These files extracted from Dept. of Commerce's National Trade Databank (NTDB)
+CD-ROM, SuDoc no. C 1.88:993/11 using software developed by RCM of the Univ.
+of Missouri-St. Louis Libraries, 12/1/1993 :/ WF930179

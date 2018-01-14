@@ -1,0 +1,89 @@
+CIA WORLD FACTBOOK 1992 via the Libraries of the Univ. of Missouri-St. Louis
+ 
+ Match 192   DB Rec# - 72,905  Dataset-WOFACT
+ 
+Source        :CENTRAL INTELLIGENCE AGENCY 
+Source key    :CI 
+Program       :WORLD FACTBOOK 
+Program key   :CI WOFACT 
+Update sched. :Annually         
+ID number     :CI WOFACT 186              
+Title         :Vital Statistics - PALMYRA ATOLL 
+Data type     :TEXT 
+End year      :1993
+Date of record:01/22/1993
+Country       : 
+| PALMYRA ATOLL 
+Text          : 
+PALMYRA ATOLL 
+GEOGRAPHY 
+Total area: 11.9 km2 
+ 
+Land area: 11.9 km2 
+ 
+Comparative area: about 20 times the size of The Mall in Washington, DC 
+ 
+Land boundaries: none 
+ 
+Coastline: 14.5 km 
+ 
+Maritime claims: 
+ 
+Contiguous zone: 12 nm 
+ 
+Continental shelf: 200 m (depth) 
+ 
+Exclusive economic zone: 200 nm 
+ 
+Territorial sea: 12 nm 
+ 
+Disputes: none 
+ 
+Climate: equatorial, hot, and very rainy 
+ 
+Terrain: low, with maximum elevations of about 2 meters 
+ 
+Natural resources: none 
+
+ 
+ 
+Land use: arable land 0%; permanent crops 0%; meadows and pastures 0%; 
+forest and woodland 100%; other 0% 
+ 
+Environment: about 50 islets covered with dense vegetation, coconut 
+trees, and balsa-like trees up to 30 meters tall 
+ 
+Note: located 1,600 km south-southwest of Honolulu in the North Pacific 
+Ocean, almost halfway between Hawaii and American Samoa 
+ 
+PEOPLE 
+Population: uninhabited 
+ 
+GOVERNMENT 
+Long-form name: none 
+ 
+Type: unincorporated territory of the US; privately owned, but 
+administered by the Office of Territorial and International Affairs, US 
+Department of the Interior 
+ 
+Capital: none; administered from Washington, DC 
+ 
+ECONOMY 
+Overview: no economic activity 
+ 
+COMMUNICATIONS 
+Ports: the main harbor is West Lagoon, which is entered by a channel on 
+the southwest side of the atoll; both the channel and harbor will 
+accommodate vessels drawing 4 meters of water; much of the road and many 
+causeways built during the war are unserviceable and overgrown 
+ 
+Airports: 1 with permanent-surface runway 1,220-2,439 m 
+ 
+DEFENSE FORCES 
+Note: defense is the responsibility of the US 
+ 
+ 
+--------------------------------------------------------------------------
+These files extracted from Dept. of Commerce's National Trade Databank (NTDB)
+CD-ROM, SuDoc no. C 1.88:993/11 using software developed by RCM of the Univ.
+of Missouri-St. Louis Libraries, 12/1/1993 :/ WF930191

@@ -1,0 +1,85 @@
+CIA WORLD FACTBOOK 1992 via the Libraries of the Univ. of Missouri-St. Louis
+ 
+ Match 30   DB Rec# - 72,743  Dataset-WOFACT
+ 
+Source        :CENTRAL INTELLIGENCE AGENCY 
+Source key    :CI 
+Program       :WORLD FACTBOOK 
+Program key   :CI WOFACT 
+Update sched. :Annually         
+ID number     :CI WOFACT 024              
+Title         :Vital Statistics - BASSAS DA INDIA 
+Data type     :TEXT 
+End year      :1993
+Date of record:01/22/1993
+Country       : 
+| BASSAS DA INDIA 
+Text          : 
+BASSAS DA INDIA 
+(possession of France) 
+ 
+GEOGRAPHY 
+Total area: NA 
+ 
+Land area: undetermined 
+ 
+Comparative area: undetermined 
+ 
+Land boundaries: none 
+ 
+Coastline: 35.2 km 
+ 
+Maritime claims: 
+ 
+Contiguous zone: 12 nm 
+ 
+Continental shelf: 200 m (depth) or to depth of exploitation 
+ 
+Exclusive economic zone: 200 nm 
+ 
+
+ 
+Territorial sea: 12 nm 
+ 
+Disputes: claimed by Madagascar 
+ 
+Climate: tropical 
+ 
+Terrain: a volcanic rock 2.4 m high 
+ 
+Natural resources: none 
+ 
+Land use: arable land 0%; permanent crops 0%; meadows and pastures 0%; 
+forest and woodland 0%; other (rock) 100% 
+ 
+Environment: surrounded by reefs; subject to periodic cyclones 
+ 
+Note: navigational hazard since it is usually under water during high 
+tide; located in southern Mozambique Channel about halfway between Africa 
+and Madagascar 
+ 
+PEOPLE 
+Population: uninhabited 
+ 
+GOVERNMENT 
+Long-form name: none 
+ 
+Type: French possession administered by Commissioner of the Republic 
+Jacques DEWATRE (since July 1991), resident in Reunion 
+ 
+Capital: none; administered by France from Reunion 
+ 
+ECONOMY 
+Overview: no economic activity 
+ 
+COMMUNICATIONS 
+Ports: none; offshore anchorage only 
+ 
+DEFENSE FORCES 
+Note: defense is the responsibility of France 
+ 
+ 
+--------------------------------------------------------------------------
+These files extracted from Dept. of Commerce's National Trade Databank (NTDB)
+CD-ROM, SuDoc no. C 1.88:993/11 using software developed by RCM of the Univ.
+of Missouri-St. Louis Libraries, 12/1/1993 :/ WF930029

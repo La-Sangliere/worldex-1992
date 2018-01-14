@@ -1,0 +1,113 @@
+CIA WORLD FACTBOOK 1992 via the Libraries of the Univ. of Missouri-St. Louis
+ 
+ Match 42   DB Rec# - 72,755  Dataset-WOFACT
+ 
+Source        :CENTRAL INTELLIGENCE AGENCY 
+Source key    :CI 
+Program       :WORLD FACTBOOK 
+Program key   :CI WOFACT 
+Update sched. :Annually         
+ID number     :CI WOFACT 036              
+Title         :Vital Statistics - BRITISH INDIAN OCEAN TERRITORY 
+Data type     :TEXT 
+End year      :1993
+Date of record:01/22/1993
+Country       : 
+| BRITISH INDIAN OCEAN TERRITORY 
+Text          : 
+BRITISH INDIAN OCEAN TERRITORY 
+(dependent territory of the UK) 
+ 
+GEOGRAPHY 
+Total area: 60 km2 
+ 
+Land area: 60 km2; includes the island of Diego Garcia 
+ 
+Comparative area: about 0.3 times the size of Washington, DC 
+ 
+Land boundaries: none 
+ 
+Coastline: 698 km 
+ 
+Maritime claims: 
+ 
+Territorial sea: UK announced establishment of 200-nm fishery zone in 
+August 1991 
+ 
+Disputes: the entire Chagos Archipelago is claimed by Mauritius 
+ 
+Climate: tropical marine; hot, humid, moderated by trade winds 
+ 
+Terrain: flat and low (up to 4 meters in elevation) 
+ 
+Natural resources: coconuts, fish 
+ 
+Land use: arable land 0%; permanent crops 0%; meadows and pastures 0%; 
+forest and woodland 0%; other 100% 
+ 
+Environment: archipelago of 2,300 islands 
+ 
+Note: Diego Garcia, largest and southernmost island, occupies strategic 
+location in central Indian Ocean; island is site of joint US-UK military 
+facility 
+
+ 
+ 
+PEOPLE 
+Population: no permanent civilian population; formerly about 3,000 
+islanders 
+ 
+Ethnic divisions: civilian inhabitants, known as the Ilois, evacuated to 
+Mauritius before construction of UK and US defense facilities 
+ 
+GOVERNMENT 
+Long-form name: British Indian Ocean Territory (no short-form name); 
+abbreviated BIOT 
+ 
+Type: dependent territory of the UK 
+ 
+Capital: none 
+ 
+Leaders: 
+ 
+Chief of State: Queen ELIZABETH II (since 6 February 1952) 
+ 
+Head of Government: Commissioner Mr. T. G. HARRIS; Administrator Mr. R. 
+G. WELLS (since NA 1991); note - both reside in the UK 
+ 
+Diplomatic representation: none (dependent territory of UK) 
+ 
+Flag: white with the flag of the UK in the upper hoist-side quadrant and 
+six blue wavy horizontal stripes bearing a palm tree and yellow crown 
+centered on the outer half of the flag 
+ 
+ECONOMY 
+Overview: All economic activity is concentrated on the largest island of 
+Diego Garcia, where joint UK-US defense facilities are located. Construction 
+projects and various services needed to support the military installations 
+are done by military and contract employees from the UK and the US. There 
+are no industrial or agricultural activities on the islands. 
+ 
+Electricity: provided by the US military 
+ 
+COMMUNICATIONS 
+Highways: short stretch of paved road between port and airfield on Diego 
+Garcia 
+ 
+Ports: Diego Garcia 
+ 
+Airports: 1 with permanent-surface runways over 3,659 m on Diego Garcia 
+ 
+Telecommunications: minimal facilities; broadcast stations (operated by 
+US Navy) - 1 AM, 1 FM, 1 TV; 1 Atlantic Ocean INTELSAT earth station 
+ 
+DEFENSE FORCES 
+Note: defense is the responsibility of the UK 
+ 
+ 
+ 
+ 
+--------------------------------------------------------------------------
+These files extracted from Dept. of Commerce's National Trade Databank (NTDB)
+CD-ROM, SuDoc no. C 1.88:993/11 using software developed by RCM of the Univ.
+of Missouri-St. Louis Libraries, 12/1/1993 :/ WF930041
